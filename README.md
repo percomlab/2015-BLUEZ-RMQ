@@ -7,4 +7,4 @@
 
 (2)SensorDataHandler
 SensorDataRetriver接收BLE device的mac address後，將收到的ble訊息印出來
-範例: https://github.com/brucechang123/2015_ble_to_rmq/
+範例:https://github.com/brucechang123/2015_ble_to_rmq/
